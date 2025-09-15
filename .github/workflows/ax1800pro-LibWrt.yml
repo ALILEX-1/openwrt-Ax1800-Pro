@@ -1,4 +1,4 @@
-name: IPQ60XX-LibWrt
+name: ax1800pro-LibWrt
 
 on:
   workflow_dispatch:
